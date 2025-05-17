@@ -30,3 +30,24 @@ Can you think of a class that might want to use the Quack behavior that isn’t 
 
 **R. Tal vez un dispositivo que haga cuac**
 
+```
+> java -jar target/katasimuduck-1.0-SNAPSHOT.jar
+Soy un pato de collar
+Pato volando
+Cuac
+---
+Soy un pato de goma
+Pato no volando
+Chirrido
+---
+Soy un pato senuelo
+Pato no volando
+Silencio
+---
+Soy un pato cabeza roja
+Pato volando
+Cuac
+---
+Cambiando el comportamiento en tiempo de ejecucion
+Pato no volando
+```
